@@ -4,4 +4,4 @@ I'll be learning Python for scripting and or automating reoccurring tasks. I won
 
 ## Disclaimer
 
-This is for educational and demonstration purposes only. It's your own responsibility what you install on your device. The content of this repository doesn't come with any warranties.
+This is for educational and demonstration purposes only. It's your own responsibility what you install on your device. See the License.
